@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+.venv/
+.vscode/
+.DS_Store
+*.log
+
+# Django
+media/
+staticfiles/
+
+# Node / Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.turbo/
+frontend/.env.local
+frontend/.env*.local
+
+# IDE
+.idea/
